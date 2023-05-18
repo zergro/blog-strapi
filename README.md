@@ -1,3 +1,3 @@
 # Strapi application
 
-A quick description of your strapi application
+This application is a blog creation site similar to medium.com
